@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pyg_cart_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_cart_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_manage_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_order_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_page_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_page_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_pay_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_search_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_search_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_seckill_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_seckill_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_sellergoods_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_shop_web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_user_service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_user_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pyg_dao/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_pojo/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_common/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_shop_web/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_manage_web/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_cart_service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_page_service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_user_service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_pay_interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_cart_interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_page_interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_user_interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_order_interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_seckill_service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_search_interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_content_interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_seckill_interface/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_sellergoods_service/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pyg_sellergoods_interface/target/maven-archiver/pom.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

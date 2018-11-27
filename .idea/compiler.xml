@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-archiver (1)" />
+        <module name="maven-archiver (10)" />
+        <module name="maven-archiver (11)" />
+        <module name="maven-archiver (12)" />
+        <module name="maven-archiver (13)" />
+        <module name="maven-archiver (14)" />
+        <module name="maven-archiver (15)" />
+        <module name="maven-archiver (16)" />
+        <module name="maven-archiver (17)" />
+        <module name="maven-archiver (18)" />
+        <module name="maven-archiver (19)" />
+        <module name="maven-archiver (2)" />
+        <module name="maven-archiver (3)" />
+        <module name="maven-archiver (4)" />
+        <module name="maven-archiver (5)" />
+        <module name="maven-archiver (6)" />
+        <module name="maven-archiver (7)" />
+        <module name="maven-archiver (8)" />
+        <module name="maven-archiver (9)" />
+        <module name="pyg_cart_interface" />
+        <module name="pyg_cart_service" />
+        <module name="pyg_cart_web" />
+        <module name="pyg_common" />
+        <module name="pyg_content_interface" />
+        <module name="pyg_content_service" />
+        <module name="pyg_dao" />
+        <module name="pyg_manage_web" />
+        <module name="pyg_order_interface" />
+        <module name="pyg_order_service" />
+        <module name="pyg_page_interface" />
+        <module name="pyg_page_service" />
+        <module name="pyg_page_web" />
+        <module name="pyg_pay_interface" />
+        <module name="pyg_pay_service" />
+        <module name="pyg_pojo" />
+        <module name="pyg_portal_web" />
+        <module name="pyg_search_interface" />
+        <module name="pyg_search_service" />
+        <module name="pyg_search_web" />
+        <module name="pyg_seckill_interface" />
+        <module name="pyg_seckill_service" />
+        <module name="pyg_seckill_web" />
+        <module name="pyg_sellergoods_interface" />
+        <module name="pyg_sellergoods_service" />
+        <module name="pyg_shop_web" />
+        <module name="pyg_solr_util" />
+        <module name="pyg_user_interface" />
+        <module name="pyg_user_service" />
+        <module name="pyg_user_web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
